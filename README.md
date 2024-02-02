@@ -60,6 +60,7 @@ volumes:
 
 4. Verify 2 containers are created successfully and running 
 ![docker-compose up Command](/my_wordpress/Images/docker_ps_Command.png)
+![DockerDesktop_Containers](/my_wordpress/Images/DockerDesktop_Containers.png)
 
 5. Go to: http://localhost:80/, you should see: 
 ![WordPress_1](/my_wordpress/Images/WordPress_1.png)
